@@ -1,0 +1,11 @@
+{
+    "name": "lisam/webupload-for-laravel",
+    "description": "webupload for laravel5",
+    "authors": [
+        {
+            "name": "lisam",
+            "email": "364362035@qq.com"
+        }
+    ],
+    "require": {}
+}
